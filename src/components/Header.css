@@ -1,0 +1,18 @@
+div{
+    display: flex;
+    flex-direction: column;
+}
+
+.App{
+    background-color: rgb(247, 235, 217);
+}
+
+.limit{
+    margin: 0% 0% 0% 0%;
+    font-size: 50px;
+    color:  rgb(239, 135, 132);;
+}
+
+.subtitle{
+    margin: 0% 0% 0% 0%;
+}
